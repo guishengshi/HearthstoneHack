@@ -1,0 +1,16 @@
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\HearthScript.exe.config
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\HearthScript.exe
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\HearthScript.pdb
+G:\Unity\Git\HearthScript\HearthScript\obj\Debug\HearthScript.exe
+G:\Unity\Git\HearthScript\HearthScript\obj\Debug\HearthScript.pdb
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\Mono.Cecil.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\UnityEngine.dll
+G:\Unity\Git\HearthScript\HearthScript\obj\Debug\HearthScript.csprojResolveAssemblyReference.cache
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\Assembly-CSharp-firstpass.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\UnityEngine.UI.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\PlayMaker.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\UnityEngine.Analytics.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\Mono.Security.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\ManagedWifi.dll
+G:\Unity\Git\HearthScript\HearthScript\bin\Debug\Assembly-CSharp.dll

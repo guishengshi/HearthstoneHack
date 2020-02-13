@@ -1,0 +1,6 @@
+G:\Unity\Git\HearthScript\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Unity\Git\HearthScript\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Unity\Git\HearthScript\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Unity\Git\HearthScript\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Unity\Git\HearthScript\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Unity\Git\HearthScript\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
